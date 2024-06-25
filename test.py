@@ -73,7 +73,7 @@
 # nesting conditional statements
 # check a letter
 
-
+print(3 + 3)
 
 # lst = [i for i in range(-1, -2)]
 # print(lst)
